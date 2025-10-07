@@ -1,0 +1,10 @@
+this is second text file .
+first we created it and then used the 
+
+git add temp.txt 
+
+command to add this but after that we unstaged it using
+
+git restore --staged temp.txt
+
+now after unstaged it we will modify it 
